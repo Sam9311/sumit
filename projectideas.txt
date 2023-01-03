@@ -9,7 +9,7 @@ Builder is supreme person can do all (but, generally just observes day to day pr
 Engineer  supervise site, place req. to inv. mgr, manage contractors
 Worker see balance and pf 
 Vendors pending bills, pending orders, backlash(more than available is required)
-contractors: rcc, interior, water contractor, 
+contractors: rcc, interior,brickwork,plaster,flooring,painting,plumbing,
 Inventory manager: takes care of systematic flow of in and out of the material through interface, takes care of orders
 Account Manager: takes care of all vendor, mgmt, builder, contractors and worker billings 
 
