@@ -1,0 +1,24 @@
+topic: construction inventory and billing system
+
+brief: There is a problem in reviewing the cash flow and material flow on day to day basis. 
+We want to create a web app to tackle the problem.
+
+Users:- builder, engineer, worker, vendors, contractors, inventory manager, Account Manager.
+
+Builder is supreme person can do all (but, generally just observes day to day progress in a chart, statistical output)
+Engineer  supervise site, place req. to inv. mgr, manage contractors
+Worker see balance and pf 
+Vendors pending bills, pending orders, backlash(more than available is required)
+contractors: rcc, interior, water contractor, 
+Inventory manager: takes care of systematic flow of in and out of the material through interface, takes care of orders
+Account Manager: takes care of all vendor, mgmt, builder, contractors and worker billings 
+
+
+Tables req:
+1) Builder+management
+2) Workers
+3) Vendors
+4) Material
+5) Contractors
+6) ternary relation table if req
+
