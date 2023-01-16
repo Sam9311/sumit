@@ -1,0 +1,128 @@
+# TransFlower private Limited Company
+
+## Document:
+System Requirement Specifications Document
+
+## Title:
+System Reqruiement Spefications for Online Education Platform Course Sheduling(Training Calendar).
+
+## Team: 
+Students, Faculties, Training Manager, Director
+
+## Objective (Purpose):
+	The online education System for product Web Applictaion is intended to  provide complete solution for students, trainers as well as internal users (Management Staff)  through  a single gateway using internet or let say Web Application. It will enable to students to reach on online learning platform and learn interesting technologies and can enhance their skills and knowledge without visiting the class physically.
+
+## Scope:
+This System allows Trainers to maintain training calender for viewing, scheduling and  updation of Courses sheduling their work flow and timing catalog based on their availablity.
+
+Faculty will be able to view the schedule and inform about availability to training manager within specific time.
+
+Student will be able to view the schedule.
+
+## Definitions:
+	Portal: Peronalized Online Web Application
+	MIS: Management Information System
+       PDA: Portable Device Application
+	SRM: Student Relation Managment
+	KPI: Key Perfomornace Index
+	Dashboard: Personalized information presented using  BI techniques such as grid, score card, graph, KPI, etc.
+
+
+## Functional Requirements:
+
+This System allows Director and training manager to maintain training calender for viewing, scheduling and  updation of Courses.
+
+Faculty will be able to view the schedule and inform about availability to training manager within specific time.
+
+Student will be able to view the schedule.
+
+The System will present same login page for all users. Every user will be provided login IDs based on their allowable accessibility in training calendar/Course training manager.
+
+Login page include two options Administration and Student.
+
+Director:
+The System will provide all the access to Director of the instiute. 
+The trainers can be viewed through the dashboard,
+All teaching/Non teaching staff is accessible to the director
+He can passon the request in priority to schedule his address/lectures in between the schedule
+He can view whole schedule through calendar tab and add responsibilities to any staff if req
+
+Training manager:
+Coursewise Availability of trainers can be viewed through the dashboard. 
+He/She can approve or reject any rescheduling/leave requests sent by the trainer. 
+And can assign the location/room.
+He/She can send custom/automated message to student or faculty whenever required.
+He/She can view whole schedule through calendar tab and add responsibilities to any staff if required
+
+Trainer:
+He/She can view whole schedule through calendar tab
+He/She can request for leave or rescheduling of the lectures or inform unavailability for certain period.
+He/She can view list of students he is addressing.
+
+Student:
+He/She can only view whole schedule through as per course as well as trainers calendar tab.
+	
+
+## NonFunctional Requirement:
+
+		### Security
+		Only Authorized users are allowed to access the training schedule.
+		Each user will be to allowed access to the system  through authentication process. 
+		System will provide access to  the content on web application, operations on the web application. (Permissions based on Role)
+		Using SSL in all transactions  which will be performed. It would protect confidential information shared by system to 
+		System access will automatically be taken off from all the trainers and students after the course is completed.
+		System will block operations for inactive  stakeholder and would redirect for authentication.
+		System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server)
+		Sensitive data will be always encrypted across communcation.
+		User proper firewall to protect servers from out side phishing, vulnerable attacks.
+
+
+		### Reliability
+		The system will backup business data on regular basis and recover in short time duration to keep system operational
+		Continous updates are matained , continous Adminstration is done to keep system operational.
+		During peak hours system will maintain same user experaince by managing load balacning .
+
+		### Availability
+		 uptime:   24* 7  available
+		 99.999%
+	
+		### Maintainability:
+		A Commercial database software will be used to maintain System data Persistence.
+		IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
+		Separate enviornment will be maintained for system for isolation in production, testing, and development.
+
+		### Portablility:
+		System will provide portable User Interface ( HTML, CSS, JS) through users will be able to access Online Training Platform.
+		System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP)
+
+		### Accessibility:
+		Only registered users will be able to access the portal after authentication.
+		Training manager can reject or approve  requests  based on role provided.
+		BOD team will be able to view daily, weekly, monthly, annual demand growth throgh customized dashboard.
+               Trainers will be able to see their student enhancement graph and could know their understanding levels time to time.
+
+	        ### Durability:
+		System will retain customer  shopping cart for 15 minutes  even though customer loose internet connection and join again.
+		  System will maintain wishlist for customer . customer  will be able to add products from wishlist  and add to shopping cart whenever needed.
+		  System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
+
+		### Efficiency:
+		on Festival season, maximum number of users  will place order, view products  with same response time.
+		System will be able to manage all transactions with isolation.
+
+		### Modularity:
+		 System will designed and developed using reusable, independent or dependent business senarios in the form of modules.
+		 These modules will be loosely coupled and highly cohesive.
+		 System will contain CRM , Inventory , shopping cart, order processing, payment processing, Delivery module, membership and Roles managment 
+		 modules.
+	
+		### Scalability:
+		System will be able  to  provide  consistent user exeprience to stake holder as well as vistors irrespective of load.
+
+		### Safety:
+		Online Training Portal will be secure from malicious attack, fishing.
+		Online training Portal functionalilites are protected from outside with prper firewall configuration.
+		Online Training Portal will be always kept updated with latest anit virus software.
+		Bussiness data will be backed up periodically to ensure safty of data using increamental back up strategy.
+		Role based security will be applied for Application data and operations accessibility.
+
