@@ -4,13 +4,14 @@
 System Requirement Specifications Document
 
 ## Title:
-System Reqruiement Spefications for Online Extra Academic Activities(Arts, Sports, Writing,Acting, Workshops) Learning Platform for  Trainer and Student Connection
+System Requirement Spefications for Online Extra Academic Activities(Arts, Sports, Writing,Acting, Workshops) Learning Platform for  Trainer and Student Connection
 
 ## Team: 
 Students, Trainers, Admin Manager
 
 ## Objective (Purpose):
-	The online learning System(tutConnect) for product Web Applictaion is intended to  provide a medium to connect between students, trainers and internal users (Management Staff)  through  a single gateway using internet or Web Application. It will enable  students to book offline one on one or batch learning sessions through the workshops arranged by the trainers displayed on our portal. 
+	The online learning System (tutConnect) for product Web Application is intended to provide a medium to connect between students, trainers, and internal users (Management Staff) through a single gateway using internet or Web Application. It will enable students to book offline one on one or batch learning sessions through the workshops arranged by the trainers displayed on our portal. 
+
 
 ## Scope:
 This System allows Trainers to maintain scheduling and  updation of Courses sheduling their work flow and timing catalogue based on their availablity.
