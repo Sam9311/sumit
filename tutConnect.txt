@@ -13,7 +13,7 @@ Students, Trainers, Admin Manager
 	The online learning System(tutConnect) for product Web Applictaion is intended to  provide a medium to connect between students, trainers and internal users (Management Staff)  through  a single gateway using internet or Web Application. It will enable  students to book offline one on one or batch learning sessions through the workshops arranged by the trainers displayed on our portal. 
 
 ## Scope:
-This System allows Trainers to maintain training calender for viewing, scheduling and  updation of Courses sheduling their work flow and timing catalogue based on their availablity.
+This System allows Trainers to maintain scheduling and  updation of Courses sheduling their work flow and timing catalogue based on their availablity.
 
 Faculty will be able to view the schedule and inform about availability to training manager within specific time.
 They will be able to check about the Fees payment status.
