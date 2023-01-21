@@ -38,7 +38,7 @@ This will be carried ot based on legitimacy of that particular person.
 
 ## Functional Requirements:
 
-Trainers will be able to view the schedule and inform about availability to training manager within specific time.
+
 Trainers wil be able to see the registration for while entering the app and after clicking on register.
 Trainers will be able to fill the basic details.
 Trainers will be able to see their desired (Instrument, sports, etc.) option to select while registering as a coach.
@@ -65,7 +65,7 @@ The dropdown selection will decide the navigation to Student, Admin or trainers 
 
 
 
-A
+
 	
 
 ## NonFunctional Requirement:
@@ -118,7 +118,7 @@ A
 		### Modularity:
 		 System will designed and developed using reusable, independent or dependent business senarios in the form of modules.
 		 These modules will be loosely coupled and highly cohesive.
-		 System will contain CRM , Inventory , shopping cart, order processing, payment processing, Delivery module, membership and Roles managment 
+		
 		 modules.
 	
 		### Scalability:
